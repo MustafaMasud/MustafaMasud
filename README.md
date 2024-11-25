@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Mustafa Mohsin and I'm a Jr Systems Developer at The Co-operators!
+My name is Mustafa Mohsin and I'm an Intermediate Systems Developer at The Co-operators!
 
-### Current Endeavours 👯
+### Endeavours 👯
 - Captain and President of the Laurier Cricket Team
 - Contributions to the open source community
 - Side Porjects + startups
